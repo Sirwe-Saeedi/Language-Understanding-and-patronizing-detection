@@ -3,7 +3,8 @@
 This task is organized by SemEval 2022 Competition 
 
 Patronizing and Condescending Language  (PCL) detection is difficult both for humans and NLP systems, due to its subtle nature, its subjectivity and the fair amount of world knowledge and commonsense reasoning required to understand this kind of language. With this task, we expect to push the boundaries of this new challenge in the NLP community.
-About the task:
+
+##About the task:
 The minimum linguistic unit in this task is the paragraph (i.e., sentences in context). Paragraphs are extracted from news articles from a range of outlets. These paragraphs may contain one or more instances of PCL targeting a set of predefined vulnerable communities. This challenge is divided into two subtasks.
 
 Subtask 1: Binary classification.
