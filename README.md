@@ -1,4 +1,4 @@
-# Language-Understanding-and-Patronizing-Detection
+# A pipeline to detect Patronizing and Condescending Language through text augmentation techniques
 
 This task is organized by SemEval 2022 Competition 
 
